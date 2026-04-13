@@ -82,9 +82,3 @@ This repository contains multiple versions of a calculator over the years, each 
 
 This was one of my earliest projects, originally created during my early learning phase.
 I have rebuilt and improved it to reflect my current skills and understanding.
-
----
-
-## ⭐ If you like this project
-
-Feel free to explore, use, or improve it!
