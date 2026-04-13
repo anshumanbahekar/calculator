@@ -1,12 +1,6 @@
-# Calculator Project (Python)
+# Calculator (Python)
 
 This project shows my journey in programming — from building my **first Python calculator** to developing a more structured and advanced version with a graphical interface.
-
----
-
-##  Overview
-
-This repository contains multiple versions of a calculator over the years, each representing an improvement in my coding skills and understanding of programming concepts.
 
 ---
 
@@ -60,16 +54,3 @@ This repository contains multiple versions of a calculator over the years, each 
 * Event-driven programming
 * User interface design basics
 
----
-
-## Technologies Used
-
-* Python
-* Tkinter (for GUI)
-
----
-
-## Note
-
-This was one of my earliest projects, originally created during my early learning phase.
-I have rebuilt and improved it to reflect my current skills and understanding.
