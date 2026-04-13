@@ -69,15 +69,6 @@ This repository contains multiple versions of a calculator over the years, each 
 
 ---
 
-##  Coming Up
-
-* Scientific calculator (sin, cos, log)
-* Calculation history
-* Web-based calculator (Flask/React)
-* Voice-controlled calculator
-
----
-
 ## Note
 
 This was one of my earliest projects, originally created during my early learning phase.
