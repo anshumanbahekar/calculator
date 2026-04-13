@@ -54,3 +54,11 @@ This project shows my journey in programming — from building my **first Python
 * Event-driven programming
 * User interface design basics
 
+
+## Support Server
+
+<p align="left">
+  <a href="https://discord.com/invite/kvS6Hpjjuw">
+    <img src="https://i0.wp.com/peakofserenity.com/wp-content/uploads/2018/12/wZgPoYaVlU0gAAAABJRU5ErkJggg.png?fit=777%2C249&ssl=1&w=140"/>
+  </a>
+</p>
